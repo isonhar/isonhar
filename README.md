@@ -1,17 +1,14 @@
-<h2 align="center">🌱Ola, Me chamo sonhar!!</h2>
+## 💠Ola,eu me chamo sonhar💠
 
 </br>
 <p>Seja bem vindo ao meu github.</br> Aqui você vai encontrar guias,dicas e muito mais</p>
 </br>
 
-
-#### Minhas redes:
-
 [![CodePen](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitel)](https://www.linkedin.com/in/sonhar)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/sonhar)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitel)](https://www.linkedin.com/in/sonhar)
 
-#### Habilidades :
+#### Tecnologias :
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><span>⠀⠀⠀⠀</span>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><span>⠀⠀⠀⠀</span>
