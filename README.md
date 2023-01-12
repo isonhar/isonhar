@@ -10,13 +10,28 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Abaixo segue um sumário de todos os meus repositórios.
+### 🖌️Usarei esse GitHub como fonte de revisão para meus estudos, então segue abaixo um sumário de todos meus repositorios🖌️
 
-#### CSS:
-
+##### CSS:
+-
+-
+-
+-
 
 #### SASS:
+-
+-
+-
+-
 
 #### JavaScript:
+-
+-
+-
+-
 
 #### React:
+-
+-
+-
+-
