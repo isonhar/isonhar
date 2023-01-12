@@ -1,6 +1,7 @@
 # 🌱Ola, Me chamo sonhar!!
 
-## Seja bem vindo ao meu github.</br> Aqui você vai encontrar guias,dicas e muito mais
+## Seja bem vindo ao meu github.</br> 
+<p>Aqui você vai encontrar guias,dicas e muito mais</p>
 
 ## Minhas redes:
 
