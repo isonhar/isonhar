@@ -20,4 +20,13 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### A seguir tem um Sumário de todos os meus repositorios para você não ficar perdido!
+### Abaixo segue um sumário de todos os meus repositórios.
+
+#### CSS:
+
+
+#### SASS:
+
+#### JavaScript:
+
+#### React:
