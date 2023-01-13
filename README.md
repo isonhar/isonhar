@@ -1,6 +1,11 @@
 <h1> 💠Ola 👋,me chamo Lucas💠</h1>
 
-[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png)](https://codepen.io/isonhar)
+[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png)](https://www.instagram.com/sonhardesigner/)
+[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png)](https://codepen.io/isonhar)
+[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png)](https://www.linkedin.com/in/sonhar)
+
+
+
 
 <a  href="https://codepen.io/isonhar" >
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" width="100" height="100">
