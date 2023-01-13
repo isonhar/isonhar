@@ -12,8 +12,13 @@
 
 ### 🖌️🖌️Usarei esse GitHub como fonte de revisão para meus estudos, então segue abaixo um sumário de todos meus repositorios
 
-##### CSS:
+##### Geral:
+-[Links uteis para quem usa CSS](https://github.com/isonhar/links-uteis)
 -
+-
+
+##### CSS:
+-[Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 -
 -
 -
