@@ -7,7 +7,6 @@
 [<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" height="90">](https://www.linkedin.com/in/sonhar)
 
 </br>
-</br>
 
 <h1>🔘 Tecnologias 🔘</h1>
 
