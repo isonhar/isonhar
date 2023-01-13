@@ -14,7 +14,8 @@
 
 ##### Geral:
 - >[Links uteis para CSS](<https://github.com/isonhar/CSS-links-uteis/blob/main/README.md>)
--
+- [Abrir nova aba](<https://github.com/openai/chatbot-gpt>)
+
 -
 
 ##### CSS:
