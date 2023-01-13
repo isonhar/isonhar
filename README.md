@@ -22,7 +22,6 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="60"><span>⠀⠀</span>
   </br>
   </br>
-  </br>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="60"><span>⠀⠀</span>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="60"><span>⠀⠀</span>
 </p>
