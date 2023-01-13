@@ -4,7 +4,7 @@
 
 
 <a href="https://codepen.io/isonhar">
-  <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png" width="50" height="50">
+  <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png" width="100" height="100">
 </a>
 
 [![CodePen](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png)](https://codepen.io/isonhar)
