@@ -1,6 +1,6 @@
 <h1 align="center" > 💠Ola 👋,eu me chamo sonhar💠</h1>
 
-<p >
+<p align="center" >
 <a  href="https://codepen.io/isonhar" >
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" width="100" height="100">
 </a><span>⠀⠀⠀⠀⠀⠀</span>
@@ -16,7 +16,7 @@
   
 ## 🔻Tecnologias🔻
 
-<p  align="center" >
+<p  >
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
