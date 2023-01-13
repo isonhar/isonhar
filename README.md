@@ -17,11 +17,11 @@
 ## 🔻Tecnologias🔻
 
 <p  align="center" >
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="100"><span>⠀⠀⠀⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" width="100" height="100"><span>⠀⠀⠀⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" width="100" height="100"><span>⠀⠀⠀⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" width="100" height="100"><span>⠀⠀⠀⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" width="100" height="100"><span>⠀⠀⠀⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="70"><span>⠀⠀⠀⠀⠀⠀</span>
 </p>
 
 ### 🖌️🖌️Usarei esse GitHub como fonte de revisão para meus estudos, então segue abaixo um sumário de todos meus repositorios
