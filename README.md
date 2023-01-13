@@ -1,17 +1,16 @@
 # 💠Ola,eu me chamo sonhar💠
-<span>⠀⠀⠀⠀</span>
+
+<p>
 <a href="https://codepen.io/isonhar">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" width="100" height="100">
-</a>
-<span>⠀⠀⠀⠀</span>
-<a href="https://www.instagram.com/sonhardesigner/">
+</a>  <a href="https://www.instagram.com/sonhardesigner/">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" width="100" height="100">
-</a>
-<span>⠀⠀⠀⠀</span>
-<a href="https://www.linkedin.com/in/sonhar">
+</a>  <a href="https://www.linkedin.com/in/sonhar">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" width="100" height="100">
 </a>
-<span>⠀⠀⠀⠀</span>
+
+</p>
+  
 ## 🔻Tecnologias🔻
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
