@@ -4,7 +4,7 @@
 [![Codepen](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png)](https://codepen.io/isonhar)
 [![Linkedin](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png)](https://www.linkedin.com/in/sonhar)
 
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="70"](https://www.instagram.com/sonhardesigner/)
+[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="70">](https://www.instagram.com/sonhardesigner/)
 
 
 
