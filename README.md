@@ -30,7 +30,7 @@
 
 <span>⠀⠀⠀</span><h2>📚 Geral 📚</h2>
 
-- [Icone criado por mim](https://github.com/isonhar/Meus-Icones)
+- [Icones criado por mim](https://github.com/isonhar/Meus-Icones)
 - 
 - 
 -
