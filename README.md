@@ -17,7 +17,7 @@
 </br>
 </br>
 
-<h1> 🔻Tecnologias🔻</h1>
+<h1>🔘 Tecnologias 🔘</h1>
 
 <p  >
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="60"><span>⠀⠀⠀</span>
