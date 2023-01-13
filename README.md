@@ -1,4 +1,4 @@
-<h1 align="center" > 💠Ola 👋,eu me chamo sonhar💠</h1>
+<h1 align="center" > 💠Ola 👋,me chamo Lucas💠</h1>
 
 <p align="center" >
 <a  href="https://codepen.io/isonhar" >
@@ -13,8 +13,8 @@
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" width="100" height="100">
 </a>
 </p>
-  
-## 🔻Tecnologias🔻
+
+<h1 align="center" > 🔻Tecnologias🔻</h1>
 
 <p  >
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="60"><span>⠀⠀⠀</span>
