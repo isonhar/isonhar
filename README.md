@@ -29,32 +29,32 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="60"><span>⠀⠀⠀</span>
 </p>
 
-### 🖌️🖌️Usarei esse GitHub como fonte de revisão para meus estudos, então segue abaixo um sumário de todos meus repositorios
 
-##### Geral:
+</br>
+</br>
+<h1>📜Sumário dos meus repositorios</h1>
+
+<h3>📚 Geral</>
 - >[Icones criados por mim](https://github.com/isonhar/Meus-Icones)
 - 
 -
-
-##### CSS:
+  
+<h3>📘 CSS</>
 - >[Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 -
 -
 -
-
-#### SASS:
+<h3>📕 SASS</>
 - em breve
 -
 -
 -
-
-#### JavaScript:
+<h3>📒 JavaScript</>
 - em breve
 -
 -
 -
-
-#### React:
+<h3>📓 React</>
 - em breve
 -
 -
