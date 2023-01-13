@@ -34,33 +34,33 @@
 </br>
 <h1>📜Sumário dos meus repositorios</h1>
 </br>
-<h2>📚 Geral</h2>
+<h2 align="center">📚 Geral 📚</h2>
 
--[Icones criados por mim](https://github.com/isonhar/Meus-Icones)
+- [Icones criados por mim](https://github.com/isonhar/Meus-Icones)
 - 
 -
 </br>
-<h2>📘 CSS</>
+<h2 align="center">📘 CSS 📘</>
 
--[Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
+- [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 -
 -
 -
-<h2>📕 SASS</>
+<h2 align="center">📕 SASS 📕</>
   
 - em breve
 -
 -
 -
 </br>
-<h2>📒 JavaScript</>
+<h2 align="center">📒 JavaScript 📒</>
 
 - em breve
 -
 -
 -
 </br>
-<h2>📓 React</>
+<h2 align="center">📓 React 📓</>
   
 - em breve
 -
