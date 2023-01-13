@@ -1,6 +1,6 @@
 # 💠Ola,eu me chamo sonhar💠
 
-<a href="https://codepen.io/isonhar" ><img width="200" height="200" href="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png" /></a>
+<a href="https://codepen.io/isonhar" ><img href="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png" /></a>
 
 
 [![CodePen](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Badger%20Codepen.png)](https://codepen.io/isonhar)
