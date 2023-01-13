@@ -25,6 +25,8 @@
 </br>
 </br>
 <h1>📜 Sumário dos meus repositorios 📜</h1>
+
+    Abaixo tem uma lista com link de todos meus repositorios de uma forma organizada
 </br>
 </br>
 </br>
@@ -36,7 +38,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📘 CSS 📘</h2>
+<span>⠀⠀⠀</span><h2>📘 CSS 📘</h2>
 
 - [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 - 
