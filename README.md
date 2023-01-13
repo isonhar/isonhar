@@ -29,38 +29,45 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="60"><span>⠀⠀⠀</span>
 </p>
 
-
 </br>
 </br>
-<h1 align="center">📜 Sumário dos meus repositorios 📜</h1>
 </br>
-<h2 align="center">📚 Geral 📚</h2>
+<h1>📜 Sumário dos meus repositorios 📜</h1>
+</br>
+</br>
+</br>
+<h2>📚 Geral 📚</h2>
 
 - [Icones criados por mim](https://github.com/isonhar/Meus-Icones)
 - 
 -
 </br>
-<h2 align="center">📘 CSS 📘</>
+</br>
+<h2>📘 CSS 📘</>
 
 - [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 -
 -
 -
-<h2 align="center">📕 SASS 📕</>
+</br>
+</br>
+<h2>📕 SASS 📕</>
   
 - em breve
 -
 -
 -
 </br>
-<h2 align="center">📒 JavaScript 📒</>
+</br>
+<h2">📒 JavaScript 📒</>
 
 - em breve
 -
 -
 -
 </br>
-<h2 align="center">📓 React 📓</>
+</br>
+<h2>📓 React 📓</>
   
 - em breve
 -
