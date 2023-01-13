@@ -1,9 +1,10 @@
 <h1> 💠Ola 👋,me chamo Lucas💠</h1>
 
-[![<img src="image url" height="70"](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png)](https://www.instagram.com/sonhardesigner/)
-[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png)](https://codepen.io/isonhar)
-[![Intagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png)](https://www.linkedin.com/in/sonhar)
+[![Instagram](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png)](https://www.instagram.com/sonhardesigner/)
+[![Codepen](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png)](https://codepen.io/isonhar)
+[![Linkedin](https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png)](https://www.linkedin.com/in/sonhar)
 
+[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="70"](https://www.instagram.com/sonhardesigner/)
 
 
 
