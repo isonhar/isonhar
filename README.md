@@ -28,8 +28,7 @@
 
     Abaixo tem uma lista com link de todos meus repositorios de uma forma organizada
 </br>
-</br>
-</br>
+
 <span>⠀⠀⠀</span><h2>📚 Geral 📚</h2>
 
 - [Icone criado por mim](https://github.com/isonhar/Meus-Icones)
