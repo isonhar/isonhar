@@ -1,13 +1,13 @@
 <h1 align="center" > 💠Ola 👋,eu me chamo sonhar💠</h1>
 
 <div align="center">
-<a style="margin: 20px;" href="https://codepen.io/isonhar">
+<a href="https://codepen.io/isonhar">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" width="100" height="100">
 </a>
-<a style="margin: 20px;" href="https://www.instagram.com/sonhardesigner/">
+<a href="https://www.instagram.com/sonhardesigner/">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" width="100" height="100">
 </a>     
-<a style="margin: 20px;" href="https://www.linkedin.com/in/sonhar">
+<a href="https://www.linkedin.com/in/sonhar" width="50" height="50">
   <img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" width="100" height="100">
 </a>
 </div>
