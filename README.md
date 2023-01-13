@@ -28,7 +28,7 @@
 </br>
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📚 Geral 📚</h2>
+<span>⠀⠀⠀</span><h2>📚 Geral 📚</h2>
 
 - [Icone criado por mim](https://github.com/isonhar/Meus-Icones)
 - 
@@ -36,7 +36,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📘 CSS 📘</>
+<span>⠀⠀⠀</span><h2">📘 CSS 📘</h2>
 
 - [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 - 
@@ -44,7 +44,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2>📕 SASS 📕</>
+<span>⠀⠀⠀</span><h2>📕 SASS 📕</h2>
   
 - em breve
 - 
@@ -52,7 +52,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📒 JavaScript 📒</>
+<span>⠀⠀⠀</span><h2">📒 JavaScript 📒</h2>
 
 - em breve
 - 
@@ -60,7 +60,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📓 React 📓</>
+<span>⠀⠀⠀</span><h2">📓 React 📓</h2>
   
 - em breve
 -
