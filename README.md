@@ -32,7 +32,7 @@
 
 </br>
 </br>
-<h1 align="center">📜 <strong> Sumário dos meus repositorios </strong> 📜</h1>
+<h1 align="center">📜 **Sumário dos meus repositorios** 📜</h1>
 </br>
 <h2 align="center">📚 Geral 📚</h2>
 
