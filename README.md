@@ -14,6 +14,9 @@
 </a>
 </p>
 
+</br>
+</br>
+
 <h1 align="center" > 🔻Tecnologias🔻</h1>
 
 <p  >
