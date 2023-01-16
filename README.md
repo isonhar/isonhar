@@ -59,7 +59,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📒 JavaScript 📒</h2>
+<span>⠀⠀⠀</span><h2>📒 JavaScript 📒</h2>
 
 - em breve
 - 
@@ -67,7 +67,7 @@
 -
 </br>
 </br>
-<span>⠀⠀⠀</span><h2">📓 React 📓</h2>
+<span>⠀⠀⠀</span><h2>📓 React 📓</h2>
   
 - em breve
 -
