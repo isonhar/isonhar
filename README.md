@@ -39,7 +39,7 @@
 
 <span>⠀⠀⠀</span><h2>💥 Mini cursos 💥</h2>
 
--[Resumo CSS basico](https://github.com/isonhar/Resumo-css-basico)
+- [Resumo CSS basico](https://github.com/isonhar/Resumo-css-basico)
 -
 </br>
 </br>
