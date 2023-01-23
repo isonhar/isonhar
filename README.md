@@ -27,6 +27,7 @@
 <h2>💥 Resumos 💥</h2>
 
 - [CSS Seletores](https://github.com/isonhar/Resumo-css-basico)
+- [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md)
 </br>
 <h2>📘 CSS 📘</h2>
 
