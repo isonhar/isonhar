@@ -1,8 +1,8 @@
 <h1> 💠Ola 👋,me chamo Lucas💠</h1>
 
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="60">](https://www.instagram.com/sonhardesigner/)<span>⠀</span>
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" height="60">](https://codepen.io/isonhar)<span>⠀</span>
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" height="60">](https://www.linkedin.com/in/sonhar)
+[<img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/Instagram%20icon2.png" height="60">](https://www.instagram.com/sonhardesigner/)<span>⠀</span>
+[<img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/Codepen%20icon2.png" height="60">](https://codepen.io/isonhar)<span>⠀</span>
+[<img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/Linkedin%20icon2.png" height="60">](https://www.linkedin.com/in/sonhar)
 
 <h1>🔘 Tecnologias 🔘</h1>
 
