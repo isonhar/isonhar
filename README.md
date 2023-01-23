@@ -22,6 +22,7 @@
 <h2>📚 Geral 📚</h2>
 
 - [Meus Icones](https://github.com/isonhar/Meus-Icones)
+- [Emojis para copiar](https://github.com/isonhar/Emojis-que-eu-gosto/blob/main/README.md)
 </br>
 <h2>💥 Resumos 💥</h2>
 
