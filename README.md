@@ -25,7 +25,7 @@
 </br>
 <h2>💥 Resumos 💥</h2>
 
-- [Resumo CSS basico](https://github.com/isonhar/Resumo-css-basico)
+- [CSS Seletores](https://github.com/isonhar/Resumo-css-basico)
 </br>
 <h2>📘 CSS 📘</h2>
 
