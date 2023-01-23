@@ -15,8 +15,6 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="40"><span>⠀</span>
 </p>
 
-</br>
-
 <h1>📜 Sumário dos meus repositorios 📜</h1>
 
     Abaixo tem uma lista com link de todos meus repositorios de uma forma organizada
