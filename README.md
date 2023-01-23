@@ -23,6 +23,7 @@
 
 - [Meus Icones](https://github.com/isonhar/Meus-Icones)
 - [Emojis para copiar](https://github.com/isonhar/Emojis-que-eu-gosto/blob/main/README.md)
+- [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
 </br>
 <h2>💥 Resumos 💥</h2>
 
@@ -32,7 +33,7 @@
 </br>
 <h2>📘 CSS 📘</h2>
 
-- [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
+- em breve
 </br>
 <h2>📕 SASS 📕</h2>
   
