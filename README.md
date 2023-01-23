@@ -28,7 +28,7 @@
     Abaixo tem uma lista com link de todos meus repositorios de uma forma organizada
 </br>
 
-<span>⠀⠀⠀</span><h2>📚 Resumos 📚</h2>
+<span>⠀⠀⠀</span><h2>📚 Geral 📚</h2>
 
 - [Icones criado por mim](https://github.com/isonhar/Meus-Icones)
 - 
@@ -37,7 +37,7 @@
 </br>
 </br>
 
-<span>⠀⠀⠀</span><h2>💥 Mini cursos 💥</h2>
+<span>⠀⠀⠀</span><h2>💥 Resumos 💥</h2>
 
 - [Resumo CSS basico](https://github.com/isonhar/Resumo-css-basico)
 -
