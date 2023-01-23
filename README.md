@@ -21,7 +21,7 @@
 
 <h2>📚 Geral 📚</h2>
 
-- [Icones criado por mim](https://github.com/isonhar/Meus-Icones)
+- [Meus Icones](https://github.com/isonhar/Meus-Icones)
 </br>
 <h2>💥 Resumos 💥</h2>
 
