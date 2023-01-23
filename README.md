@@ -22,45 +22,23 @@
 <h2>📚 Geral 📚</h2>
 
 - [Icones criado por mim](https://github.com/isonhar/Meus-Icones)
-- 
-- 
--
 </br>
-</br>
-
-<span>⠀⠀⠀</span><h2>💥 Resumos 💥</h2>
+<h2>💥 Resumos 💥</h2>
 
 - [Resumo CSS basico](https://github.com/isonhar/Resumo-css-basico)
--
 </br>
-</br>
-<span>⠀⠀⠀</span><h2>📘 CSS 📘</h2>
+<h2>📘 CSS 📘</h2>
 
 - [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
-- 
--
--
 </br>
-</br>
-<span>⠀⠀⠀</span><h2>📕 SASS 📕</h2>
+<h2>📕 SASS 📕</h2>
   
 - em breve
-- 
--
--
 </br>
-</br>
-<span>⠀⠀⠀</span><h2>📒 JavaScript 📒</h2>
+<h2>📒 JavaScript 📒</h2>
 
 - em breve
-- 
--
--
 </br>
-</br>
-<span>⠀⠀⠀</span><h2>📓 React 📓</h2>
+<h2>📓 React 📓</h2>
   
 - em breve
--
--
--
