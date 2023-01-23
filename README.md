@@ -28,6 +28,7 @@
 
 - [CSS Seletores](https://github.com/isonhar/Resumo-css-basico)
 - [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md)
+- [CSS Pseudo Elementos](https://github.com/isonhar/CSS-Pseudo-Elemento)
 </br>
 <h2>📘 CSS 📘</h2>
 
