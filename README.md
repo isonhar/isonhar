@@ -20,7 +20,6 @@
 <h1>📜 Sumário dos meus repositorios 📜</h1>
 
     Abaixo tem uma lista com link de todos meus repositorios de uma forma organizada
-</br>
 
 <span>⠀⠀⠀</span><h2>📚 Geral 📚</h2>
 
