@@ -2,8 +2,8 @@
 
 </br>
 
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="60">](https://www.instagram.com/sonhardesigner/)<span>⠀⠀⠀</span>
-[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" height="60">](https://codepen.io/isonhar)<span>⠀⠀⠀</span>
+[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Instagram%20icon.png" height="60">](https://www.instagram.com/sonhardesigner/)<span>⠀</span>
+[<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Codepen%20icon.png" height="60">](https://codepen.io/isonhar)<span>⠀</span>
 [<img src="https://github.com/isonhar/Extra/blob/main/Imagens/Icons/Linkedin%20%20icon.png" height="60">](https://www.linkedin.com/in/sonhar)
 
 </br>
@@ -11,13 +11,13 @@
 <h1>🔘 Tecnologias 🔘</h1>
 
 <p  >
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="40"><span>⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="40"><span>⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="40"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="40"><span>⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="40"><span>⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="40"><span>⠀</span>
   </br>
   </br>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="40"><span>⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="40"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="40"><span>⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="40"><span>⠀</span>
 </p>
 
 </br>
