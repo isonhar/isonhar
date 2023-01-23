@@ -11,13 +11,13 @@
 <h1>🔘 Tecnologias 🔘</h1>
 
 <p  >
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="30"><span>⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="30"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="40"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="40"><span>⠀⠀⠀</span>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="30"><span>⠀⠀⠀</span>
   </br>
   </br>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="30"><span>⠀⠀⠀</span>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="30"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20icon.png" height="40"><span>⠀⠀⠀</span>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20icon.png" height="40"><span>⠀⠀⠀</span>
 </p>
 
 </br>
