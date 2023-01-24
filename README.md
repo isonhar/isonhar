@@ -45,7 +45,7 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="20">
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="20">
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="20">
-  <p>Ola </p>
+  <span>Ola </span>
 </p>
 </br>
 <h2>📓 React 📓</h2>
