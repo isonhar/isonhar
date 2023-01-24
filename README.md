@@ -41,7 +41,7 @@
 </br>
 <h2>📒 JavaScript 📒</h2>
 
-- <p  >
+<p>
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20icon.png" height="20">
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20icon.png" height="20">
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20icon.png" height="20">
