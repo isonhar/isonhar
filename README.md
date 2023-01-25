@@ -47,6 +47,13 @@
   <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">
   <span>btn alguma coisa </span>
 </p>
+
+|<p>
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png" height="35">
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35">
+  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">
+  
+</p>|<span>btn alguma coisa </span>|
 </br>
 <h2>📓 React 📓</h2>
   
