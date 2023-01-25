@@ -50,4 +50,7 @@
 </br>
 <h2>📓 React 📓</h2>
   
-| Item 3   | Item 4   |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
