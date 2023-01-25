@@ -1,4 +1,4 @@
-[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
+HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
 
 <h1> 💠Ola 👋,me chamo Lucas💠</h1>
 
