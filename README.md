@@ -51,7 +51,7 @@
 <h2>📓 React 📓</h2>
 
 
-| [HTML-DESC] <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
+| ![Minha imagem](HTML-DESC) <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -59,4 +59,4 @@
 
 
 
-[HTML-DESC]: <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35">
+[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png"
