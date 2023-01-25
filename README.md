@@ -49,5 +49,12 @@
 </p>
 </br>
 <h2>📓 React 📓</h2>
-  
-|<img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
+
+
+| [HTML-DESC] <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
+
+
+
+
+
+[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
