@@ -53,7 +53,7 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 <h2>📓 React 📓</h2>
 
 
-| ![html desc][HTML-DESC] <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
+| ![html desc][HTML-DESC] <img src="HTML-DESC" height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
