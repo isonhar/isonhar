@@ -63,7 +63,7 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 
 
 
-[![Code Climate][codeclimate-image]][codeclimate-url]
+[![Code Climate][codeclimate-image]]
   
 [codeclimate-image]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
 
