@@ -60,20 +60,11 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 
 
 
-[![NPM version][npm-version-image]][npm-version-url]
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
+
+
+
 [![Code Climate][codeclimate-image]][codeclimate-url]
-[![NPM][npm-image]][npm-url]
   
-[npm-version-image]: https://badge.fury.io/js/getmodule.svg?style=flat
-[npm-version-url]: https://npmjs.org/package/getmodule
-[travis-image]: https://travis-ci.org/fdaciuk/getmodule.svg
-[travis-url]: https://travis-ci.org/fdaciuk/getmodule
-[coveralls-image]: https://img.shields.io/coveralls/fdaciuk/getmodule.svg?style=flat
-[coveralls-url]: https://coveralls.io/r/fdaciuk/getmodule?branch=master
-[npm-image]: https://nodei.co/npm/getmodule.png?downloads=true&downloadRank=true&stars=true
-[npm-url]: https://nodei.co/npm/getmodule/
 [codeclimate-image]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
 
 
