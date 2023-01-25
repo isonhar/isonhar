@@ -57,7 +57,7 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 [JS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
 [REACT-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
 
-| [HTML-DESC] | Center-aligned |
+| ![HTML-DESC] | Center-aligned |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
