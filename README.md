@@ -50,7 +50,7 @@
 </br>
 <h2>📓 React 📓</h2>
   
-| <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png" height="35"> | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png" height="35"> | Center-aligned |
+| :---         |     :---:      |
+| git status   | git status     |
+| git diff     | git diff       |
