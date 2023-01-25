@@ -74,8 +74,8 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 [coveralls-url]: https://coveralls.io/r/fdaciuk/getmodule?branch=master
 [npm-image]: https://nodei.co/npm/getmodule.png?downloads=true&downloadRank=true&stars=true
 [npm-url]: https://nodei.co/npm/getmodule/
-[codeclimate-image]: https://codeclimate.com/github/fdaciuk/getmodule/badges/gpa.svg?style=flat
-[codeclimate-url]: https://codeclimate.com/github/fdaciuk/getmodule
+[codeclimate-image]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
+
 
 
 
