@@ -51,21 +51,18 @@ HTML-DESC = https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%
 </p>
 </br>
 <h2>📓 React 📓</h2>
+[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
+[CSS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
+[SASS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20desc%20mini.png
+[JS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
+[REACT-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
 
-
-| ![html desc][HTML-DESC] <img src={[HTML-DESC]} height="35"> <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">| Center-aligned |
+| [HTML-DESC] | Center-aligned |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
-
-
-
-
-![html desc][HTML-DESC]
-  
-[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
 
 
 
