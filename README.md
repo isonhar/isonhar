@@ -32,33 +32,11 @@
 - [CSS Seletores](https://github.com/isonhar/Resumo-css-basico)
 - [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md)
 - [CSS Pseudo Elementos](https://github.com/isonhar/CSS-Pseudo-Elemento)
-</br>
-<h2>📘 CSS 📘</h2>
 
-- em breve
 </br>
-<h2>📕 SASS 📕</h2>
+
+<h2>📕 Estudos 📕</h2>
   
-- em breve
-</br>
-<h2>📒 JavaScript 📒</h2>
-
-<p>
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png" height="35">
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png" height="35">
-  <img src="https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc.png" height="35">
-  <span>btn alguma coisa </span>
-</p>
-</br>
-<h2>📓 React 📓</h2>
-
-[css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
-[html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
-[js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
-[sass_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20desc%20mini.png
-[react_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
-
-
 | <h1>Tecnologias</h1>  | <h1>Descrição</h1> |
 | :---: | :--- |
 | ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc] ![REACT][react_desc] ![SASS][sass_desc]   | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
