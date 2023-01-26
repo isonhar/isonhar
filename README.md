@@ -60,3 +60,7 @@
 [js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
 
 
+| Tecnologias  | Estudo |
+| ------------- | ------------- |
+| ![HTML][html_desc]![CSS][css_desc]![JS][js_desc]  | Teste  |
+| Content Cell  | Content Cell  |
