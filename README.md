@@ -52,15 +52,12 @@
 </br>
 <h2>📓 React 📓</h2>
 
-![HTML][html_desc]![CSS][css_desc]![JS][js_desc]
-  
-
 [css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
 [html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
 [js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
 
 
-| Tecnologias  | Estudo |
+| Tecnologias  | <h1>Estudo</h1> |
 | ------------- | ------------- |
-| ![HTML][html_desc]![CSS][css_desc]![JS][js_desc]  | Teste  |
-| Content Cell  | Content Cell  |
+| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
+| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
