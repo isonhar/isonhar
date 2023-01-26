@@ -52,11 +52,6 @@
 </br>
 <h2>📓 React 📓</h2>
 
-
-[![NPM version][npm-version-image]][npm-version-url]
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
-[![Code Climate][codeclimate-image]][codeclimate-url]
 [![NPM][npm-image]][npm-url]
   
 [npm-version-image]: https://badge.fury.io/js/getmodule.svg?style=flat
