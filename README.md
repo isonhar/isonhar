@@ -37,6 +37,9 @@
 
 <h2>📕 Estudos 📕</h2>
   
+[html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
+  
+  
 | <h1>Tecnologias</h1>  | <h1>Descrição</h1> |
 | :---: | :--- |
 | ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc] ![REACT][react_desc] ![SASS][sass_desc]   | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
