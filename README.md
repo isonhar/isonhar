@@ -52,9 +52,9 @@
 </br>
 <h2>📓 React 📓</h2>
 
-![NPM][npm-image]
+![css_desc][npm-image]
   
 
-[npm-image]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
-[npm-url]: https://nodei.co/npm/getmodule/
+[css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
+
 
