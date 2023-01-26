@@ -57,7 +57,7 @@
 [js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
 
 
-| <h1>Tecnologias</h1>  | <h1>Estudo</h1> |
+| <h1>Tecnologias</h1>  | <h1>Descrição</h1> |
 | ------------- | ------------- |
 | ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
 | ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
