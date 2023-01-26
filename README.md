@@ -52,7 +52,7 @@
 </br>
 <h2>📓 React 📓</h2>
 
-[![NPM][npm-image]]
+![NPM][npm-image]
   
 
 [npm-image]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
