@@ -52,8 +52,10 @@
 </br>
 <h2>📓 React 📓</h2>
 
-image_path = "https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png"
+
+[html_desc]: "https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png"
+
 
 | Nome | Imagem |
 |------|--------|
-| Nome do objeto | ![Nome do objeto](image_path) |
+| Nome do objeto | [html_desc]|
