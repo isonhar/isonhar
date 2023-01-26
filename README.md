@@ -51,22 +51,11 @@
 </p>
 </br>
 <h2>📓 React 📓</h2>
-[HTML-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
-[CSS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
-[SASS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20desc%20mini.png
-[JS-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
-[REACT-DESC]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
 
-| [![HTML-DESC][HTML-DESC]] | Center-aligned |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+versão = "1.0"
 
-
-HTML_DESC = "https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png"
-
-![html]([HTML-DESC])
-
-
+| Versão | Descrição |
+|-------|------------|
+| versão | Primeira versão do software |
 
 
