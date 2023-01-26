@@ -53,7 +53,7 @@
 <h2>📓 React 📓</h2>
 
 
-[html_desc]: "https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png"
+[html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png
 
 
 | Nome | Imagem |
