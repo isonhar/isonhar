@@ -38,7 +38,10 @@
 <h2>📕 Estudos 📕</h2>
   
 [html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
-  
+[css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc.png
+[sass_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20desc%20mini.png
+[js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
+[react_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
   
 | <h1>Tecnologias</h1>  | <h1>Descrição</h1> |
 | :---: | :--- |
