@@ -52,7 +52,7 @@
 </br>
 <h2>📓 React 📓</h2>
 
-![css_desc][npm-image]
+![CSS][css_desc]
   
 
 [css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
