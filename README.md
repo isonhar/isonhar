@@ -52,10 +52,8 @@
 </br>
 <h2>📓 React 📓</h2>
 
-versão = "1.0"
+image_path = "https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc.png"
 
-| Versão | Descrição |
-|-------|------------|
-| versão | Primeira versão do software |
-
-
+| Nome | Imagem |
+|------|--------|
+| Nome do objeto | ![Nome do objeto](image_path) |
