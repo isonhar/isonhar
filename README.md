@@ -8,20 +8,6 @@
 
 <h1>🔘 Tecnologias 🔘</h1>
 
-| |
-|--------|
-| HTML e CSS | SASS | 
-| Bootstrap|
-| JavaScript |
-| JavaScript DOM|
-| React |
-| NodeJS|
-| PostMan |
-| MongoDB |
-| GIT |
-| JAVA|
-|--------|
-
 |  |  |  |
 | :-:        | :-:      | :-:        |
 | HTML e CSS | SASS  | Bootstrap  |
