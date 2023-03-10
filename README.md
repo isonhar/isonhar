@@ -22,6 +22,14 @@
 | JAVA|
 |--------|
 
+| Coluna 1 | Coluna 2 | Coluna 3 |
+| :-:        | :-:      | :-:        |
+| HTML e CSS | SASS  | Bootstrap  |
+| Esquerda | Centro  | Direita  |
+| Esquerda | Centro  | Direita  |
+| Esquerda | Centro  | Direita  |
+| Esquerda | Centro  | Direita  |
+
 
 <h1>📜 Sumário dos meus repositorios 📜</h1>
 
