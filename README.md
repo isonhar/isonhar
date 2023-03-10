@@ -33,27 +33,12 @@
 - [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md)
 - [CSS Pseudo Elementos](https://github.com/isonhar/CSS-Pseudo-Elemento)
 
-</br>
 
-<h2>📕 Estudos 📕</h2>
-  
-[html_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/HTML%20desc%20mini.png
-[css_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/CSS%20desc%20mini.png
-[sass_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/SASS%20desc%20mini.png
-[js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
-[react_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
-  
-| <h1> Sumário</h1>  |
-| :---: | :--- |
-| [Meus Icones](https://github.com/isonhar/Meus-Icones)   |
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  |
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | 
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | 
-
-
-
-| Coluna |
+| <h1> Sumário</h1> |
 |--------|
-| Linha 1 |
-| Linha 2 |
-| Linha 3 |
+| [Meus Icones](https://github.com/isonhar/Meus-Icones) |
+| [Emojis para copiar](https://github.com/isonhar/Emojis-que-eu-gosto/blob/main/README.md) |
+| [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md) |
+| [CSS Seletores](https://github.com/isonhar/Resumo-css-basico) |
+| [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md) |
+| [CSS Pseudo Elementos](https://github.com/isonhar/CSS-Pseudo-Elemento) |
