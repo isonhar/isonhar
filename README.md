@@ -21,19 +21,6 @@
 
     Abaixo tem uma lista com link de todos os meus repositorios de uma forma organizada
 
-<h2>📚 Geral 📚</h2>
-
-- [Meus Icones](https://github.com/isonhar/Meus-Icones)
-- [Emojis para copiar](https://github.com/isonhar/Emojis-que-eu-gosto/blob/main/README.md)
-- [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md)
-</br>
-<h2>📘 Resumos 📘</h2>
-
-- [CSS Seletores](https://github.com/isonhar/Resumo-css-basico)
-- [CSS Pseudo Classes](https://github.com/isonhar/CSS-Pseudo-Classe/blob/main/README.md)
-- [CSS Pseudo Elementos](https://github.com/isonhar/CSS-Pseudo-Elemento)
-
-
 | <h1> Sumário</h1> |
 |--------|
 | [Meus Icones](https://github.com/isonhar/Meus-Icones) |
