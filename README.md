@@ -20,9 +20,7 @@
 <h1>📜 Sumário dos meus repositorios 📜</h1>
 
     Abaixo tem uma lista com link de todos os meus repositorios de uma forma organizada
-
-| <h1> Sumário</h1> |
-|--------|
+    
 | [Meus Icones](https://github.com/isonhar/Meus-Icones) |
 | [Emojis para copiar](https://github.com/isonhar/Emojis-que-eu-gosto/blob/main/README.md) |
 | [Links uteis para CSS](https://github.com/isonhar/CSS-links-uteis/blob/main/README.md) |
