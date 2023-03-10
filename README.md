@@ -43,7 +43,7 @@
 [js_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/JS%20desc%20mini.png
 [react_desc]: https://github.com/isonhar/Meus-Icones/blob/main/Imagens/Icons/React%20desc%20mini.png
   
-| <h1> Sumário</h1>  | <h1>Descrição</h1> |
+| <h1> Sumário</h1>  |
 | :---: | :--- |
 | [Meus Icones](https://github.com/isonhar/Meus-Icones)   |
 | ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  |
