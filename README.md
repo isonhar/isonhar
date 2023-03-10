@@ -10,8 +10,7 @@
 
 | |
 |--------|
-| HTML e CSS |
-| SASS |
+| HTML e CSS | SASS | 
 | Bootstrap|
 | JavaScript |
 | JavaScript DOM|
