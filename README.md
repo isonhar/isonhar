@@ -46,6 +46,6 @@
 | <h1>Tecnologias</h1>  | <h1>Descrição</h1> |
 | :---: | :--- |
 | [Meus Icones](https://github.com/isonhar/Meus-Icones)   |
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
-| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | Teste kskdksdkdskdskdsksdkdsksksdkdskkkdskdskdskdsksdkdskdkkds  |
+| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  |
+| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | 
+| ![HTML][html_desc] ![CSS][css_desc] ![JS][js_desc]  | 
