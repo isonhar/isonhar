@@ -19,7 +19,7 @@
 
 <h1>📜 Sumário dos meus repositorios 📜</h1>
 
-    Abaixo tem uma lista com link de todos os meus repositorios de uma forma organizada
+    Abaixo tem uma lista com link de todos os meus repositorios.
     
     
 | |
