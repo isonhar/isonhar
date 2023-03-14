@@ -11,9 +11,8 @@
 |  |  |  |
 | :-:        | :-:      | :-:        |
 | HTML e CSS | SASS  | Bootstrap  |
-| JavaScript | JavaScript DOM  | React  |
-| NodeJS | PostMan  | MongoDB  |
-| GIT | JAVA  | --------  |
+| JavaScript | React | -------- |
+
 | -------- | --------  | -------- |
 
 
