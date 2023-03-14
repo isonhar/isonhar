@@ -11,7 +11,7 @@
 |  |  |  |
 | :-:        | :-:      | :-:        |
 | HTML e CSS | SASS  | Bootstrap  |
-| JavaScript | React | -------- |
+| JavaScript | ReactJS | NextJS |
 
 | -------- | --------  | -------- |
 
